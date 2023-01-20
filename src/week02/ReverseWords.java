@@ -7,7 +7,7 @@ package week02;
 import java.util.Scanner;
 
 /**
- *
+ * hello there
  * @author purohiam
  */
 public class ReverseWords {
