@@ -8,8 +8,6 @@ import java.util.Scanner;
 
 /**
  * hello there whateva
- * 
- * added another stupid comment
  * @author purohiam
  */
 public class ReverseWords {
