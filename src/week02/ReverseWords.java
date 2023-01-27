@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package week02;
-
+// added cpmment for pull
 import java.util.Scanner;
 
 /**
