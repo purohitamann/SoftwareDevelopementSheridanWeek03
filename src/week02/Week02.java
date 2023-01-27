@@ -13,12 +13,21 @@ public class Week02 {
    
        private int studentId;
        private String studentName;
+       private String Address;
         
        public Week02(int studentId, String studentName) {
             this.studentId = studentId;
             this.studentName = studentName;
     }
 
+    public String getAddress() {
+        return Address;
+    }
+
+    public void setAddress(String Address) {
+        this.Address = Address;
+    }
+    
     public int getStudentId() {
         return studentId;
     }
