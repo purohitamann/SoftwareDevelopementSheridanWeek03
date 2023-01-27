@@ -4,6 +4,7 @@
  */
 package week02;
 // added cpmment for pull
+// for fetch and merge
 import java.util.Scanner;
 
 /**
